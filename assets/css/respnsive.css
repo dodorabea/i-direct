@@ -1,0 +1,284 @@
+@charset "utf-8";
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 2000px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 1600px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media only screen and (max-width: 1900px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 1750px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media only screen and (max-width: 1450px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 1200px) {
+    .researchBannerText h2 span:first-child {
+        font-size: 66px;
+    }
+
+    .researchBannerText h2 span:last-child {
+        font-size: 57px;
+    }
+
+    .subscribeNewsletter h3 {
+        font-size: 35px;
+    }
+}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 1180px) {}
+
+@media screen and (max-width: 1197px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 991px) {
+    .formStepsCard {
+        display: none;
+    }
+
+    .formStepsCard.d-mobile {
+        display: block;
+    }
+
+    .readMoreSectionTextPart {
+        padding: 30px 15px;
+    }
+
+    .researchBannerText h2 {
+        line-height: 60px;
+    }
+
+    .researchBannerText h2 span:first-child {
+        font-size: 50px;
+    }
+
+    .researchBannerText h2 span:last-child {
+        font-size: 43px;
+    }
+
+    .formStepsCard ul li img {
+        margin-bottom: 15px;
+    }
+
+    .formStepsCard ul li a {
+        display: block;
+        padding: 15px 10px;
+    }
+}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media only screen and (max-width: 769px) {
+    .sectionTitle h3 {
+        font-size: 28px;
+        margin-bottom: 25px;
+    }
+
+    .congratulationCard {
+        padding: 28px;
+    }
+
+    .congratulationCard h3 {
+        font-size: 30px;
+    }
+
+    .congratulationCard p {
+        font-size: 13px;
+    }
+
+    .grt-menu-logo .grt-logo {
+        display: none;
+    }
+
+    .grt-menu-row .grt-menu-logo .grt-logo:first-child {
+        display: flex;
+    }
+
+    .researchBannerText .btn {
+        margin-bottom: 25px;
+    }
+
+    .se-pre-con {
+        background-size: contain;
+    }
+
+    .readMoreSectionTextPart h3 {
+        font-size: 18px;
+    }
+
+    .readMoreSectionTextPart p {
+        font-size: 14px;
+    }
+}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media only screen and (max-width: 798px) {
+    .swiper-slide.homebanner img {
+        height: 299px !important;
+        width: 100%;
+        object-fit: unset !important;
+    }
+
+    .overlaybannerImage {
+        width: 78%;
+    }
+}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media only screen and (max-width: 768px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media only screen and (max-width: 575px) {
+    .sectionTitle h3 {
+        font-size: 24px;
+    }
+
+    .swiper-slide.homebanner img {
+        height: auto !important;
+        width: auto !important;
+        object-fit: unset !important;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width:1023px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 575px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 490px) {
+    .congratulationCard {
+        padding: 0px;
+    }
+
+    .sidebarSocial {
+        display: none;
+    }
+
+    .subscribeNewsletter h3 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    .subscribeNewsletter p {
+        font-size: 13px;
+    }
+
+    .input-group .btn {
+        padding: 0px 21px;
+        font-size: 12px;
+    }
+
+    .researchBannerText h2 span:first-child {
+        font-size: 35px;
+    }
+
+    .researchBannerText h2 span:last-child {
+        font-size: 30px;
+    }
+
+    .researchBanner {
+        min-height: 550px;
+    }
+
+    .researchBannerText h2 {
+        line-height: 43px;
+    }
+
+    .btn-primary {
+        margin-bottom: 15px;
+    }
+
+    .yourJourneyPublishTitle h3 {
+        font-size: 20px;
+        line-height: 31px;
+    }
+
+    .contentTextTaps {
+        padding: 50px 10px;
+    }
+
+    .articleProcessingChargesTitle h3 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .copyRightList li span {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+
+    .copyRightList {
+        justify-content: center;
+    }
+
+    .copyRightList li:first-child::after {
+        content: unset;
+    }
+
+    ul.footerSocialLink {
+        margin-top: 20px;
+        justify-content: center;
+    }
+
+    .imagePart .reveal img {
+        margin-bottom: 35px;
+    }
+
+    .publishedCategory {
+        padding: 9px 0;
+    }
+
+}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 315px) {}
+
+/********************************/
+/*      Css      */
+/********************************/
+@media screen and (max-width: 380px) {}
+
+/********************************/
+/*    Modal  Css      */
+/********************************/
+@media (min-width: 576px) {}
